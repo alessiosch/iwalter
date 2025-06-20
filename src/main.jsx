@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import AppointmentScheduler from "./components/AppointmentScheduler";
-import "./index.css";
+import AppointmentScheduler from "./AppointmentScheduler";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
